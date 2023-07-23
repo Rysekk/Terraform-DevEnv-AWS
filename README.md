@@ -14,3 +14,6 @@ terraform plan
 #APPLY
 terraform apply
 ```
+<h3>Infrastructure déployée</h3>
+
+![](doc/infra.png)
